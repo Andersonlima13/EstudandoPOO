@@ -1,0 +1,15 @@
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\bin\Debug\net7.0\EstudandoPOO_c#.exe
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\bin\Debug\net7.0\EstudandoPOO_c#.deps.json
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\bin\Debug\net7.0\EstudandoPOO_c#.runtimeconfig.json
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\bin\Debug\net7.0\EstudandoPOO_c#.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\bin\Debug\net7.0\EstudandoPOO_c#.pdb
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\obj\Debug\net7.0\EstudandoPOO_c#.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\obj\Debug\net7.0\EstudandoPOO_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\obj\Debug\net7.0\EstudandoPOO_c#.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\obj\Debug\net7.0\EstudandoPOO_c#.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\obj\Debug\net7.0\EstudandoPOO_c#.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\obj\Debug\net7.0\EstudandoPOO_c#.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\obj\Debug\net7.0\refint\EstudandoPOO_c#.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\obj\Debug\net7.0\EstudandoPOO_c#.pdb
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\obj\Debug\net7.0\EstudandoPOO_c#.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\obj\Debug\net7.0\ref\EstudandoPOO_c#.dll
