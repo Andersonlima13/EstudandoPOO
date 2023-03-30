@@ -10,12 +10,12 @@ class Aluno
 // declarando as variaveis 
 
 
-    public soma nota1, nota2;
+    public double nota1, nota2;
 
 
 // metodo de media entre os valores
 
-    public soma media()
+    public double media()
     {
         return (nota1 + nota2)/2;
 
@@ -24,7 +24,7 @@ class Aluno
 
 // método de situação do aluno
 
-    public string situacao(soma media)
+    public string situacao(double media)
 {
     return nota >= 7 ? "aprovado" : "reprovado";
      
