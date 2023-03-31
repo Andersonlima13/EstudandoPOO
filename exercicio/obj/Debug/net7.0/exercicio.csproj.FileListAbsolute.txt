@@ -1,0 +1,15 @@
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\bin\Debug\net7.0\exercicio.exe
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\bin\Debug\net7.0\exercicio.deps.json
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\bin\Debug\net7.0\exercicio.runtimeconfig.json
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\bin\Debug\net7.0\exercicio.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\bin\Debug\net7.0\exercicio.pdb
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\obj\Debug\net7.0\exercicio.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\obj\Debug\net7.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\obj\Debug\net7.0\exercicio.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\obj\Debug\net7.0\exercicio.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\obj\Debug\net7.0\exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\obj\Debug\net7.0\exercicio.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\obj\Debug\net7.0\refint\exercicio.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\obj\Debug\net7.0\exercicio.pdb
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\obj\Debug\net7.0\exercicio.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\exercicio\obj\Debug\net7.0\ref\exercicio.dll
