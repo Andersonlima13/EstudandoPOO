@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\EstudandoPOO_c#.csproj": {}
+    "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\Metodos\\Metodos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\EstudandoPOO_c#.csproj": {
+    "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\Metodos\\Metodos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\EstudandoPOO_c#.csproj",
-        "projectName": "EstudandoPOO_c#",
-        "projectPath": "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\EstudandoPOO_c#.csproj",
+        "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\Metodos\\Metodos.csproj",
+        "projectName": "Metodos",
+        "projectPath": "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\Metodos\\Metodos.csproj",
         "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\obj\\",
+        "outputPath": "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\Metodos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"

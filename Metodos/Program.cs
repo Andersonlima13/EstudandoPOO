@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 
 namespace ESTUDANDOPOO
 {
@@ -7,10 +7,13 @@ namespace ESTUDANDOPOO
         static void Main(string[] args )
         {
 
-            Pessoa obj = new Pessoa();
+            Aluno obj = new Aluno();
             obj.nome = "anderson";
-            obj.mensagem();
+            obj.nota1 = 8;
+            obj.nota2 = 10;
+            obj.msg();
         }
 
     }
 }
+*/
