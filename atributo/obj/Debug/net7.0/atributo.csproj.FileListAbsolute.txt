@@ -1,0 +1,5 @@
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\atributo\obj\Debug\net7.0\atributo.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\atributo\obj\Debug\net7.0\atributo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\atributo\obj\Debug\net7.0\atributo.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\atributo\obj\Debug\net7.0\atributo.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\atributo\obj\Debug\net7.0\atributo.csproj.CoreCompileInputs.cache
