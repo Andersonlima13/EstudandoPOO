@@ -1,12 +1,18 @@
-using Sistem;
+using System;
 
 class Imposto
 {
 
-    public void Alimentacao(double salario)
+// virtual -> indica que o metodo pode ter o valor sobreescrito , com aqui é um valor padrão,
+// logo os outros metodos irão altera-lo 
+    public virtual void Alimentacao(double salario)
     {
-     Console.WriteLine("desconto");   
+     Console.WriteLine("desconto padrão de  R$ " + (salario * 0.1));   
     }
 
-    public void Transporte(double salario);
+    public void Transporte(double salario)
+    {
+        Console.WriteLine("desconto padrão de  R$ " + (salario * 0.06));   
+
+    }
 }

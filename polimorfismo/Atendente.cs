@@ -1,11 +1,13 @@
 using System;
-using ExtensionMethods;
 
+
+
+// os : depois do objeto significa um objeto extendido , nesse caso , de imposto
 class Atendente : Imposto
 {
 
-    public void Alimentacao(double salario) 
-        {
-        
+    public override void Alimentacao(double salario) 
+    {
+        Console.WriteLine("desconto padrão de  R$ " + (salario * 0.12));   
     }
 }

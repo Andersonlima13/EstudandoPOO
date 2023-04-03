@@ -1,9 +1,9 @@
 using System;
 
-class Estagiario
+class Estagiario : Imposto
 {
 
-    public void Alimentacao(double salario) 
+    public override void Alimentacao(double salario) 
     {
         
     }
