@@ -1,0 +1,15 @@
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\bin\Debug\net7.0\DynamicArray.exe
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\bin\Debug\net7.0\DynamicArray.deps.json
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\bin\Debug\net7.0\DynamicArray.runtimeconfig.json
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\bin\Debug\net7.0\DynamicArray.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\bin\Debug\net7.0\DynamicArray.pdb
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\obj\Debug\net7.0\DynamicArray.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\obj\Debug\net7.0\DynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\obj\Debug\net7.0\DynamicArray.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\obj\Debug\net7.0\DynamicArray.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\obj\Debug\net7.0\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\obj\Debug\net7.0\DynamicArray.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\obj\Debug\net7.0\refint\DynamicArray.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\obj\Debug\net7.0\DynamicArray.pdb
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\obj\Debug\net7.0\DynamicArray.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\DynamicArray\obj\Debug\net7.0\ref\DynamicArray.dll
