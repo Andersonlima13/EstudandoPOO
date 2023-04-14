@@ -10,16 +10,16 @@ namespace atributo
         {
         // Instância de estagiario            
            Imposto objE = new Estagiario();
-           objE.Alimentacao(100);
-           objE.Transporte(50);
+           objE.Alimentacao(1000);
+           objE.Transporte(1000);
 
            Imposto objG = new Gerente();
-           objE.Alimentacao(400);
-           objE.Transporte(200);
+           objE.Alimentacao(5000);
+           objE.Transporte(5000);
 
            Imposto objA = new Atendente();
-           objE.Alimentacao(300);
-           objE.Transporte(100);
+           objE.Alimentacao(2000);
+           objE.Transporte(2000);
             
 
 
