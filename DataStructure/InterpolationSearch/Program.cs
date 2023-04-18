@@ -9,31 +9,46 @@ class Program
     {
         
         int[] array = {1,2,3,4,5,6,7,8,9};
+        int index = interpolationSearch(array, 8);
 
-        int index = interpolationSearch(int[] array, int value)
+        if ( index != -1)
+        {
+            Console.WriteLine($"elemento encontrado no índice {index}");
+        }else
+        {
+            Console.WriteLine("elemento não encontrado");
+        }
+
+        static int interpolationSearch(int[] array, int value)
         {
             int high = array.Length -1;
             int low = 0 ;
 
-            while(ValueTuple >= array[low] && value <= array[high] && low <= high)
+            while(value >= array[low] && value <= array[high] && low <= high)
             {
-                int probe = low + (high - low ) * (ValueTuple - array[low])/
+                int probe = low + (high - low ) * (value - array[low])/
                  (array[high] - array[low]); 
 
                  Console.WriteLine($"provavel {probe}");
 
-                 if (array[probe] <value)
+                 if (array[probe] == value)
                  {
-                    low = probe + 1;
+                   return probe;
 
                  }
-                 else 
+                 else if(array[probe] < value)
+                 {
+                    low = probe + 1;
+                 }
+                 else
                  {
                     high = probe - 1;
                  }
             }
+              return -1;
         }
-        return -1;
+        
+      
 
     
     }

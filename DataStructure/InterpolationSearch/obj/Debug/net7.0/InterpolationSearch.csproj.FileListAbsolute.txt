@@ -1,0 +1,15 @@
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\bin\Debug\net7.0\InterpolationSearch.exe
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\bin\Debug\net7.0\InterpolationSearch.deps.json
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\bin\Debug\net7.0\InterpolationSearch.runtimeconfig.json
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\bin\Debug\net7.0\InterpolationSearch.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\bin\Debug\net7.0\InterpolationSearch.pdb
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\obj\Debug\net7.0\InterpolationSearch.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\obj\Debug\net7.0\InterpolationSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\obj\Debug\net7.0\InterpolationSearch.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\obj\Debug\net7.0\InterpolationSearch.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\obj\Debug\net7.0\InterpolationSearch.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\obj\Debug\net7.0\InterpolationSearch.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\obj\Debug\net7.0\refint\InterpolationSearch.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\obj\Debug\net7.0\InterpolationSearch.pdb
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\obj\Debug\net7.0\InterpolationSearch.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\DataStructure\InterpolationSearch\obj\Debug\net7.0\ref\InterpolationSearch.dll
