@@ -1,5 +1,8 @@
 ﻿using System;
 
+
+/// pesquisa binarias são boas com numeros gigantes , contando sempre os elementos pela metade
+/// complexidade de big o (0 log n)
 class Program
 {
 

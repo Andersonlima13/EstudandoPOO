@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\DataStructure\\Tree\\Tree.csproj",
-      "projectName": "Tree",
-      "projectPath": "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\DataStructure\\Tree\\Tree.csproj",
+      "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\study_c#\\json\\json.csproj",
+      "projectName": "json",
+      "projectPath": "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\study_c#\\json\\json.csproj",
       "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\DataStructure\\Tree\\obj\\",
+      "outputPath": "C:\\Users\\Anderson\\Desktop\\PROJETOS ESTUDOS\\EstudandoPOO_c#\\study_c#\\json\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"

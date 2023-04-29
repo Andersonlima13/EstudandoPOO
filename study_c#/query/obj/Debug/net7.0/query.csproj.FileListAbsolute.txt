@@ -1,0 +1,15 @@
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\obj\Debug\net7.0\query.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\obj\Debug\net7.0\query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\obj\Debug\net7.0\query.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\obj\Debug\net7.0\query.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\obj\Debug\net7.0\query.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\bin\Debug\net7.0\query.exe
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\bin\Debug\net7.0\query.deps.json
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\bin\Debug\net7.0\query.runtimeconfig.json
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\bin\Debug\net7.0\query.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\bin\Debug\net7.0\query.pdb
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\obj\Debug\net7.0\query.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\obj\Debug\net7.0\refint\query.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\obj\Debug\net7.0\query.pdb
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\obj\Debug\net7.0\query.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\query\obj\Debug\net7.0\ref\query.dll
