@@ -1,0 +1,15 @@
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\obj\Debug\net7.0\foreach.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\obj\Debug\net7.0\foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\obj\Debug\net7.0\foreach.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\obj\Debug\net7.0\foreach.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\obj\Debug\net7.0\foreach.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\bin\Debug\net7.0\foreach.exe
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\bin\Debug\net7.0\foreach.deps.json
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\bin\Debug\net7.0\foreach.runtimeconfig.json
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\bin\Debug\net7.0\foreach.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\bin\Debug\net7.0\foreach.pdb
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\obj\Debug\net7.0\foreach.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\obj\Debug\net7.0\refint\foreach.dll
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\obj\Debug\net7.0\foreach.pdb
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\obj\Debug\net7.0\foreach.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\PROJETOS ESTUDOS\EstudandoPOO_c#\study_c#\foreach\obj\Debug\net7.0\ref\foreach.dll
