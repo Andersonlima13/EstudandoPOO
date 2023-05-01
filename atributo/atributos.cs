@@ -1,6 +1,6 @@
 using System;
 
-class Pessoa
+class Person
 {
 
     private string nome = "eu mesmo";
@@ -13,7 +13,7 @@ class Pessoa
 
 // enquanto usar usar this.nome vai chamar diretamente o atributo "eu mesmo"
        Console.WriteLine(nome);
-       Console.WriteLine(this.nome);
+   Console.WriteLine(this.nome);
     }
 
 }

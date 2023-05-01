@@ -8,5 +8,11 @@ class Gerente : Imposto
     {
         Console.WriteLine("desconto do gerente é  de  R$ " + (salario * 0.15));   
     }
+
+    
+    public override void Transporte(double salario) 
+    {
+        Console.WriteLine("desconto do transporte no gerente é  de  R$ " + (salario * 0.15));   
+    }
    
 }
